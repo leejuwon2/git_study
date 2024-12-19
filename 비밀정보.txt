@@ -1,3 +1,0 @@
-인증 키: abcd
-naver id: aaaa
-naver password: 1234
