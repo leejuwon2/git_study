@@ -1,0 +1,9 @@
+1. GitHub에 비어있는 Repository 생성
+2. Git 저장소로 사용할 폴더 선택
+3. 해당 폴더에 git init 명령으로 git 저장소 생성
+4. 해당 폴더 안에서 작업
+5. git add . 또는 git add 파일명 으로 추가
+6. git commit -m "커밋 내용" 으로 저장
+7. git remote add origin 주소 로 깃과 깃허브 연결
+8. git push -u origin main 깃허브에 main 생성 후 업로드 
+9. 이후로 git add, git commit, git push 반복
